@@ -1,15 +1,11 @@
 # Hola 👋, soy [Nombre del profesional]
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
+Soy una Publicista con 5 años de experiencia en marketing digital, donde he demostrado mi capacidad para implementar estrategias digitales efectivas. Ahora, estoy buscando hacer una transición hacia el área de tecnología. Recientemente, empecé el Bootcamp de Ruby on Rails para emprendimientos, donde adquirí habilidades en tecnologías relevantes como HTML, CSS, JavaScript, Git, Ruby, Ruby on Rails y PostgreSQL. Combino mi experiencia previa con mi pasión por la programación, buscando oportunidades que me permitan aplicar mis habilidades y contribuir al éxito de un equipo dinámico en el campo de la tecnología.
 
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
+### 📫 Contacto
 
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
-
-## 📫 Contacto
-
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
+- Puedes contactarme a través de mi correo electrónico: **<sofimguina@gmail.com>**
+- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/sofiamoren/)**
 - Puedes visitar mi **[sitio web](https://example.com)**
 
 ### 🎨 Frontend
@@ -19,10 +15,6 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 ### 🔨 Backend
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📎 Herramientas
 
