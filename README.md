@@ -1,4 +1,4 @@
-# Hola 👋, soy [Nombre del profesional]
+# Hola 👋, soy Sofía Moren
 
 Soy una Publicista con 5 años de experiencia en marketing digital, donde he demostrado mi capacidad para implementar estrategias digitales efectivas. Ahora, estoy buscando hacer una transición hacia el área de tecnología. Recientemente, empecé el Bootcamp de Ruby on Rails para emprendimientos, donde adquirí habilidades en tecnologías relevantes como HTML, CSS, JavaScript, Git, Ruby, Ruby on Rails y PostgreSQL. Combino mi experiencia previa con mi pasión por la programación, buscando oportunidades que me permitan aplicar mis habilidades y contribuir al éxito de un equipo dinámico en el campo de la tecnología.
 
